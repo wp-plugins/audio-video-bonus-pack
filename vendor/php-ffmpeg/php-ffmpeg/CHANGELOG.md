@@ -1,6 +1,22 @@
 CHANGELOG
 ---------
 
+* 0.6.0 (xx-xx-2015)
+
+ * AbstractData::get no longer throws exceptions (@sujayjaju).
+ * Add crop filter (@cangelis).
+ * Fix watermark (@sujayjaju).
+
+* 0.5.1 (08-26-2014)
+
+  * Fix video aspect ratio calculation (@nlegoff).
+
+* 0.5.0 (08-12-2014)
+
+  * Add support for Wav and AAC audio formats (@MrHash).
+  * Add watermark filter (@sylvainv).
+  * Add configuration for audio channels (@SimonSimCity).
+
 * 0.4.4 (12-17-2013)
 
   * Fix width / height dimensions extraction.
